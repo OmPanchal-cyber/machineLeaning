@@ -1,5 +1,5 @@
 
-mport pandas as pd
+import pandas as pd
 data=pd.read_csv(r"C:\Users\panchal_____om\Downloads\Insurance Prediction.csv")
 data
 
